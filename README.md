@@ -1,2 +1,2 @@
 # freeCodeCamp
-freeCodeCamp | Python Certification
+Python Certification practical excersices and exams
